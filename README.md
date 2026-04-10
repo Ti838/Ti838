@@ -1,48 +1,58 @@
 # 👋 Hi, I'm Timon Biswas
 
 <div align="center">
-  <img src="https://awesome-github-badges.azurewebsites.net/authored-by/Ti838" alt="Authored by Ti838" />
-  <br/>
-  <b>Full-Stack Developer | AI Enthusiast | Open Source Contributor</b>
+  <img src="https://img.shields.io/badge/Authored%20by-Ti838-blue?style=for-the-badge&logo=github&logoColor=white" alt="Authored by Ti838" />
+  <img src="https://komarev.com/ghpvc/?username=Ti838&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>✨ Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on scalable AI-driven automation tools.
+- 🔭 I’m currently working on building **scalable AI-driven automation tools**.
 - 🌱 I’m currently learning **Advanced Data Structures** and **Cloud Architecture**.
-- 👯 I’m looking to collaborate on Open Source projects related to **Automation & AI**.
-- 💬 Ask me about **JavaScript, PHP, or Application Logic**.
+- 👯 I’m looking to collaborate on **Open Source** projects related to **Automation & AI**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills |
-| --- | --- |
-| **Languages** | HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Java, Dart |
-| **Frameworks** | React, Node.js, Express, Flutter |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, Postman |
+### 📊 GitHub Productivity & Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ti838&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti838&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Ti838&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ti838&layout=compact&theme=radical)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,dart,react,nodejs,express,flutter,mysql,mongodb,git,github,vscode,postman,figma,docker,aws&perline=10" alt="Tech Stack" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
+### 📦 All Repositories (Auto-Updating)
 
-#### [Open-Power](https://github.com/Ti838/Open-Power)
-A powerful tool designed for AI integration and performance tracking.
+<div align="center">
 
-#### [Hostel-Management](https://github.com/Ti838/Hostel-Management)
-A comprehensive system for managing hostel operations and inventory.
+| | |
+| :---: | :---: |
+| <a href="https://github.com/Ti838/Open-Power"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=Open-Power&theme=radical" /></a> | <a href="https://github.com/Ti838/AiMon"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=AiMon&theme=radical" /></a> |
+| <a href="https://github.com/Ti838/Hostel-Management"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=Hostel-Management&theme=radical" /></a> | <a href="https://github.com/Ti838/My-Portfolio"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=My-Portfolio&theme=radical" /></a> |
+| <a href="https://github.com/Ti838/Humanizer"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=Humanizer&theme=radical" /></a> | <a href="https://github.com/Ti838/Subscribly"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=Subscribly&theme=radical" /></a> |
+| <a href="https://github.com/Ti838/philomedis-web-app"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=philomedis-web-app&theme=radical" /></a> | <a href="https://github.com/Ti838/philomedisMobile"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=philomedisMobile&theme=radical" /></a> |
+| <a href="https://github.com/Ti838/jerry"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=jerry&theme=radical" /></a> | <a href="https://github.com/Ti838/Speed-Guard"><img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Ti838&repo=Speed-Guard&theme=radical" /></a> |
 
-#### [My-Portfolio](https://github.com/Ti838/My-Portfolio)
-A modern personal portfolio built with React and TypeScript.
+</div>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ti838&theme=react-dark&hide_border=true" width="100%" />
+</p>
 
 ---
 
