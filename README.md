@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h3>✨ Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+  <h3>✨ Work on Full-Stack Development | AI Enthusiast | Open Source Contributor</h3>
 </div>
 
 ---
